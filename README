@@ -1,12 +1,1 @@
-Michael Shen
-mjshen
-cs12b
-lab7
-
-DictionaryInterface.java
-DuplicateKeyException.java
-KeyNotFoundException.java
-DictionaryClient.java
-Dictionary.java
-Makefile
-README
+Dictionary functions using Binary Search Tree 
